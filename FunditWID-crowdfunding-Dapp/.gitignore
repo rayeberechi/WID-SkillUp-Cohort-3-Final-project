@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Environment variables (Security Risk!)
+.env
+backend/.env
+frontend/.env
+
+# Hardhat Build Files (These are auto-generated)
+backend/artifacts/
+backend/cache/
+backend/typechain-types/
+
+# Frontend Build
+frontend/dist/
+frontend/build/
+
+# System Files
+.DS_Store
