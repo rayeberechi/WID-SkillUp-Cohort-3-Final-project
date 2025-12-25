@@ -4,6 +4,9 @@ FunditWID is a blockchain-based crowdfunding application that allows users to cr
 
 ![Dashboard Screenshot](./Screenshot-1.png)
 
+Repo Link: [https://github.com/rayeberechi/funditwid-crowdfund-dapp.git](https://github.com/rayeberechi/funditwid-crowdfund-dapp.git)
+
+Live Link: [FunditWID](https://funditwid.vercel.app/)
 ## Key Features
 - **Create Campaigns:** Users can launch fundraising campaigns with a Title, Description, Image, Goal (in USDC), and Duration.
 - **ERC20 Donations:** Supports stablecoin contributions (simulated USDC) instead of volatile ETH.
